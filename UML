@@ -1,0 +1,14 @@
+plaintext
+------------------------
+| BinaryConverter |
+------------------------
+| + bin2Dec(String): int |
+------------------------
+| + main(String[]): void |
+------------------------
+
+------------------------
+| BinaryFormatException |
+------------------------
+| + BinaryFormatException(String) |
+------------------------
